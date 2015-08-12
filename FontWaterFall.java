@@ -9,8 +9,6 @@ import javax.swing.*;
  *
  * Usage: FontWaterFall <font> <style> <min_size> <max_size> <increment>
  *
- * Author: Nathan Meyers, nmeyers@javalinux.net
- * $Id: FontWaterFall.java,v 1.7 1999/11/07 22:35:20 nathanm Exp $
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
